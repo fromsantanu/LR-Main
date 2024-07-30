@@ -1,4 +1,4 @@
-# Literature Review
+# Literature Review  ![HitCount](https://hits.dwyl.com/fromsantanu/LR-Main.svg)
 
 ## About
 ### What is Topic Research:
